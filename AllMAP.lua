@@ -5,7 +5,7 @@ getgenv().Map = {
 	},
 	["Reign piece"] = {
 		ID = 78466992256287,
-		HTTP = "https://github.com/znesr99/MarvenRizHub/blob/main/Reign_piece.lua"
+		HTTP = "https://raw.githubusercontent.com/znesr99/MarvenRizHub/refs/heads/main/Reign_piece.lua"
 	},
 }
 
