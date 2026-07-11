@@ -5,10 +5,13 @@ getgenv().Map = {
 	},
 	["Reign piece"] = {
 		ID = 78466992256287,
-		HTTP = "https://raw.githubusercontent.com/znesr99/MarvenRizHub/refs/heads/main/Reign_piece.lua"
+		HTTP = "https://github.com/znesr99/MarvenRizHub/blob/main/Reign_piece.lua"
+	},
+	["Legacy piece"] = {
+		ID = 111097829542198,
+		HTTP = "https://raw.githubusercontent.com/znesr99/MarvenRizHub/refs/heads/main/Legacy_piece.lua"
 	},
 }
-
 
 for _, v in pairs(getgenv().Map) do
     if game.PlaceId == v.ID then
