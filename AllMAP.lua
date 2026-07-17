@@ -3,6 +3,10 @@ getgenv().Map = {
 		ID = 119091355492870,
 		HTTP = "https://raw.githubusercontent.com/znesr99/MarvenRizHub/refs/heads/main/Rock_Fruit.lua"
 	};
+    ["Rock Fruit Raid"] = {
+		ID = 82878101790702,
+		HTTP = "https://raw.githubusercontent.com/znesr99/MarvenRizHub/refs/heads/main/Rock_Fruit_Raid.lua"
+	};
 	["Reign piece"] = {
 		ID = 78466992256287,
 		HTTP = "https://raw.githubusercontent.com/znesr99/MarvenRizHub/refs/heads/main/Reign_piece.lua"
@@ -19,4 +23,5 @@ for _, v in pairs(getgenv().Map) do
         break
     end
 end
+
 
