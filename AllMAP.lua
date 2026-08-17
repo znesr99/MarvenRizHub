@@ -5,7 +5,7 @@ getgenv().Map = {
 	};
     ["Rock Fruit Raid"] = {
 		ID = 82878101790702,
-		HTTP = "https://raw.githubusercontent.com/znesr99/MarvenRizHub/refs/heads/main/Rock_Fruit_Raid.lua"
+		HTTP = "https://vss.pandauth.com/kv/6616f34861c4f0d0"
 	};
 	["Reign piece"] = {
 		ID = 78466992256287,
