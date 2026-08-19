@@ -310,6 +310,7 @@ task.spawn(function()
 								Attack()
 								Teleport(v.HumanoidRootPart.CFrame * MethodFarm)
 							until not _G.Auto_Raid or not v.Parent or v.Humanoid.Health <= 0
+							break
 						end
 					end
 				end
