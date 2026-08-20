@@ -1,11 +1,11 @@
 getgenv().Map = {
 	["Rock Fruit"] = {
 		ID = 119091355492870,
-		HTTP = "https://api.jnkie.com/api/v1/luascripts/public/4aba6c760b4e7d740ec5b688356eba80cca256676fdda159759cb42841bb8332/download"
+		HTTP = "https://raw.githubusercontent.com/znesr99/MarvenRizHub/refs/heads/main/Rock_Fruit_Main"
 	};
     ["Rock Fruit Raid"] = {
 		ID = 82878101790702,
-		HTTP = "https://api.jnkie.com/api/v1/luascripts/public/4aba6c760b4e7d740ec5b688356eba80cca256676fdda159759cb42841bb8332/download"
+		HTTP = "https://raw.githubusercontent.com/znesr99/MarvenRizHub/refs/heads/main/Rock_Fruit_Main"
 	};
 	["Reign piece"] = {
 		ID = 78466992256287,
