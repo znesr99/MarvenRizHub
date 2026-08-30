@@ -15,6 +15,10 @@ getgenv().Map = {
 		ID = 111097829542198,
 		HTTP = "https://raw.githubusercontent.com/znesr99/MarvenRizHub/refs/heads/main/Legacy_piece.lua"
 	};
+	["Potential Piece"] = {
+		ID = 82121248818094,
+		HTTP = "https://raw.githubusercontent.com/znesr99/MarvenRizHub/refs/heads/main/Potential_Piece.lua"
+	};
 }
 
 for _, v in pairs(getgenv().Map) do
@@ -23,4 +27,3 @@ for _, v in pairs(getgenv().Map) do
         break
     end
 end
-
